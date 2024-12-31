@@ -9969,7 +9969,7 @@ function x3() {
                           }),
                         }),                       
                         l.jsx("a", {
-                          href: "https://mighty-2.gitbook.io/unmarshal",
+                          href: "https://docs.unmarshal.pro",
                           children: l.jsxs("svg", {
                             width: "24",
                             height: "24",
@@ -10034,7 +10034,7 @@ function x3() {
                             }),
                             l.jsx("li", {
                               children: l.jsx("a", {
-                                href: "https://mighty-2.gitbook.io/unmarshal",
+                                href: "https://docs.unmarshal.pro",
                                 target: "_blank",
                                 class: "hover:underline",
                                 children: "Whitepaper",
@@ -18050,7 +18050,7 @@ const u0 = [
               children: "Company",
             }),
             l.jsx("a", {
-              href: "https://mighty-2.gitbook.io/unmarshal",
+              href: "https://docs.unmarshal.pro",
               target: "_blank",
               onClick: t,
               className: "text-2xl text-white",
@@ -18192,7 +18192,7 @@ function ix() {
                       children: "Company",
                     }),
                     l.jsx("a", {
-                      href: "https://mighty-2.gitbook.io/unmarshal",
+                      href: "https://docs.unmarshal.pro",
                       target: "_blank",
                       className:
                         "transition duration-150 ease-out text-base font-medium leading-6 text-white hover:text-[#00EC97]",
