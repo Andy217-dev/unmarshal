@@ -9924,7 +9924,7 @@ function x3() {
                         "mt-12 inline-grid grid-cols-5 gap-x-6 w-auto social-links",
                       children: [
                         l.jsx("a", {
-                          href: "https://x.com",
+                          href: "https://x.com/unmarshal_ai",
                           children: l.jsx("svg", {
                             width: "24",
                             height: "24",
@@ -9940,7 +9940,7 @@ function x3() {
                           }),
                         }),                        
                         l.jsx("a", {
-                          href: "https://t.me",
+                          href: "https://t.me/unmarshal_ai",
                           children: l.jsxs("svg", {
                             width: "24",
                             height: "24",
