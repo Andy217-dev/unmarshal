@@ -10012,7 +10012,7 @@ function x3() {
                             }),
                             l.jsx("li", {
                               children: l.jsx("a", {
-                                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x0123456789&chain=mainnet",
+                                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xE9865C427593c14de196c81Ed099D122B2497C73&chain=mainnet",
                                 target: "_blank",
                                 class: "hover:underline",
                                 children: "Uniswap",
