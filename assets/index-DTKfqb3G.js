@@ -10010,6 +10010,14 @@ function x3() {
                                 children: "Whitepaper",
                               }),
                             }),
+                            l.jsx("li", {
+                              children: l.jsx("a", {
+                                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x0123456789&chain=mainnet",
+                                target: "_blank",
+                                class: "hover:underline",
+                                children: "Uniswap",
+                              }),
+                            }),
                           ],
                         }),
                       ],
