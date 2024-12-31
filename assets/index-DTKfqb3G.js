@@ -18057,7 +18057,7 @@ const u0 = [
               children: "Whitepaper",
             }),
             l.jsx("a", {
-              href: "https://app-unmarshal.vercel.app/",
+              href: "https://app.unmarshal.pro/",
               target: "_blank",
               onClick: t,
               className: "text-2xl text-white",
@@ -18203,7 +18203,7 @@ function ix() {
                 l.jsx("div", {
                   className: "hidden lg:flex lg:flex-1 lg:justify-end",
                   children: l.jsxs("a", {
-                    href: "https://app-unmarshal.vercel.app/",
+                    href: "https://app.unmarshal.pro/",
                     target: "_blank",
                     className: "btn-signin px-7 flex gap-2",
                     children: [
